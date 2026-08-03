@@ -1,0 +1,29 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "SelfdestructSender",
+  "sourceName": "contracts/MockTreasury.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "payable",
+      "type": "constructor"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address payable",
+          "name": "target",
+          "type": "address"
+        }
+      ],
+      "name": "sendAll",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x608060405260ae806100126000396000f3fe6080604052348015600f57600080fd5b506004361060285760003560e01c8063d660c45d14602d575b600080fd5b603c6038366004604a565b603e565b005b806001600160a01b0316ff5b600060208284031215605b57600080fd5b81356001600160a01b0381168114607157600080fd5b939250505056fea2646970667358221220b1d3c16d4f9d20022534f19a330c1d5bcd8e14018ae215d20dd138033b42a95064736f6c63430008130033",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b506004361060285760003560e01c8063d660c45d14602d575b600080fd5b603c6038366004604a565b603e565b005b806001600160a01b0316ff5b600060208284031215605b57600080fd5b81356001600160a01b0381168114607157600080fd5b939250505056fea2646970667358221220b1d3c16d4f9d20022534f19a330c1d5bcd8e14018ae215d20dd138033b42a95064736f6c63430008130033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

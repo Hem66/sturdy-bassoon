@@ -1,0 +1,27 @@
+{
+  "name": "sturdy-bassoon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hem66/sturdy-bassoon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hem66/sturdy-bassoon/issues"
+  },
+  "homepage": "https://github.com/Hem66/sturdy-bassoon#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "chai": "^4.3.7",
+    "dotenv": "^17.4.2",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.29.0"
+  }
+}
